@@ -1,0 +1,5 @@
+C:\Users\Jasmi\Documents\CSU STUDENT\MyGame\MyGame\MyGame\obj\Debug\netcoreapp2.1\MyGame.csproj.AssemblyReference.cache
+C:\Users\Jasmi\Documents\CSU STUDENT\MyGame\MyGame\MyGame\obj\Debug\netcoreapp2.1\MyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasmi\Documents\CSU STUDENT\MyGame\MyGame\MyGame\obj\Debug\netcoreapp2.1\MyGame.AssemblyInfoInputs.cache
+C:\Users\Jasmi\Documents\CSU STUDENT\MyGame\MyGame\MyGame\obj\Debug\netcoreapp2.1\MyGame.AssemblyInfo.cs
+C:\Users\Jasmi\Documents\CSU STUDENT\MyGame\MyGame\MyGame\obj\Debug\netcoreapp2.1\MyGame.csproj.CoreCompileInputs.cache

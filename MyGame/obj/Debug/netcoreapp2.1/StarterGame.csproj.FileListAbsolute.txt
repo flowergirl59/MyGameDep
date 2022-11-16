@@ -1,0 +1,39 @@
+C:\Users\user\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.deps.json
+C:\Users\user\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.json
+C:\Users\user\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.dll
+C:\Users\user\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.pdb
+C:\Users\user\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfo.cs
+C:\Users\user\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.dll
+C:\Users\user\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.pdb
+C:\Users\user\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.genruntimeconfig.cache
+D:\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.deps.json
+D:\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.json
+D:\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.dev.json
+D:\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.dll
+D:\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.pdb
+D:\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csproj.AssemblyReference.cache
+D:\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfoInputs.cache
+D:\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfo.cs
+D:\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csproj.CoreCompileInputs.cache
+D:\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.dll
+D:\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.pdb
+D:\OneDrive\Classes\Fall 2022\Object-Oriented Design\repos\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.genruntimeconfig.cache
+C:\Users\Jasmi\Downloads\StarterGame4\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.deps.json
+C:\Users\Jasmi\Downloads\StarterGame4\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.json
+C:\Users\Jasmi\Downloads\StarterGame4\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.runtimeconfig.dev.json
+C:\Users\Jasmi\Downloads\StarterGame4\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.dll
+C:\Users\Jasmi\Downloads\StarterGame4\StarterGame\StarterGame\bin\Debug\netcoreapp2.1\StarterGame.pdb
+C:\Users\Jasmi\Downloads\StarterGame4\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csproj.AssemblyReference.cache
+C:\Users\Jasmi\Downloads\StarterGame4\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jasmi\Downloads\StarterGame4\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfoInputs.cache
+C:\Users\Jasmi\Downloads\StarterGame4\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.AssemblyInfo.cs
+C:\Users\Jasmi\Downloads\StarterGame4\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.csproj.CoreCompileInputs.cache
+C:\Users\Jasmi\Downloads\StarterGame4\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.dll
+C:\Users\Jasmi\Downloads\StarterGame4\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.pdb
+C:\Users\Jasmi\Downloads\StarterGame4\StarterGame\StarterGame\obj\Debug\netcoreapp2.1\StarterGame.genruntimeconfig.cache
